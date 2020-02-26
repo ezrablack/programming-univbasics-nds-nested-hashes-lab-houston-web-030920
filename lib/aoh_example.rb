@@ -8,6 +8,11 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   people = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
+<<<<<<< HEAD
+=======
+  # Build an array that contains (or, "nests") the constants into a single
+  # Array. Ruby constants are denoted by ALL_CAPS
+>>>>>>> cbf358dfdd5faea1786c092e3d5b06a9d046f093
 end
 
 def literal_aoh
